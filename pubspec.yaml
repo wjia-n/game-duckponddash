@@ -1,7 +1,7 @@
 name: duckponddash
 description: "Duck Pond Dash - Gallery of bobbing ducks, no harm"
 publish_to: 'none'
-version: 1.0.0+3
+version: 1.0.0+4
 environment:
   sdk: ^3.13.5
 
